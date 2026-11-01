@@ -2,7 +2,11 @@
 
 Workflow de **n8n** que atiende a los clientes de una tienda online por Telegram. Un router con IA clasifica cada mensaje y lo deriva a un agente especialista: uno consulta el estado de los pedidos en la base de datos y el otro responde según las políticas de la tienda. Cuando hace falta una persona, el caso pasa a un operador que responde desde su propio Telegram.
 
-<!-- Reemplazar esta línea por el video: en el editor web de GitHub, arrastrar demo.mp4 acá -->
+
+
+https://github.com/user-attachments/assets/d97f5bf6-b8d6-4636-a40c-f8fae17f25fe
+
+
 
 ## Qué resuelve
 
